@@ -1,0 +1,14 @@
+  
+body {
+    margin: 0;
+    background-color: #ec407a;
+    font-family: sans-serif;
+    color: #fff;
+    user-select: none;
+  }
+  
+  div img {
+    display: block;
+    max-width: 200px;
+    margin: 10px;
+  }
